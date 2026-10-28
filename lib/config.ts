@@ -2,7 +2,7 @@ export const CONFIG: { senderName: string; replyUrl: string } = {
   senderName: 'Zymund',
   // Optional. Leave '' to hide the "Tell him" button on the success screen.
   // Examples: 'sms:+639XXXXXXXXX?&body=Yes%20💗'  |  'https://m.me/your.username'
-  replyUrl: '',
+  replyUrl: 'https://web.facebook.com/justxynn',
 };
 
 export const TAUNTS = [
